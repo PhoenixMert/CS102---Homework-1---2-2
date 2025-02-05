@@ -87,6 +87,22 @@ public class assignmentTwo {
             }
         }
 
+        public static int findOddSum(int[] arr) {
+            int oddSum = 0;
+            for (int i = 0; i < arr.length; i+= 2) {
+                oddSum += arr[i];
+            }
+            return oddSum;
+        }
+        
+        public static int findEvenSum(int[] arr) {
+            int evenSum = 0;
+            for (int i = 1; i < arr.length; i+= 2) {
+                evenSum += arr[i];
+            }
+            return evenSum;
+        }
+
         // Close scanner
         scanner.close();
     }
