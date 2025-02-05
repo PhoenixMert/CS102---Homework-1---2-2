@@ -17,7 +17,6 @@ This project is a **menu-driven console application** implemented in Java that p
 - Compute and display the **sum of elements** at **odd- and even-numbered indexes**.
 
 ## Project Structure
-```
 📂 GitHub-Assignment-2
 ├── 📄 README.md         # Project documentation
 ├── 📄 ArrayUtils.java   # Utility functions for array operations
