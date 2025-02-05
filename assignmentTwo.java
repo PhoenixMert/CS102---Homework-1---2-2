@@ -32,7 +32,11 @@ public class assignmentTwo {
             }
         } while (choice != 4);
 
-        // Functions below
+        // Close scanner
+        scanner.close();
+    }
+
+    // Functions below
           public static int findMax(int[] arr) {
 
               int max = arr[0];
@@ -102,8 +106,4 @@ public class assignmentTwo {
             }
             return evenSum;
         }
-
-        // Close scanner
-        scanner.close();
-    }
 }
