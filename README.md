@@ -19,7 +19,7 @@ This project is a **menu-driven console application** implemented in Java that p
 ## Project Structure
 📂 GitHub-Assignment-2
 ├── 📄 README.md         # Project documentation
-├── 📄 ArrayUtils.java   # Utility functions for array operations
+├── 📄 assignmentTwo.java   # main Java file
 
 ## Collaboration & Workflow
 1. One team member creates the GitHub repository and adds others as **collaborators**.
