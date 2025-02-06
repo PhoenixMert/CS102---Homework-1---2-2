@@ -36,7 +36,6 @@ This project is a **menu-driven console application** implemented in Java that p
 
 ## Demonstration
 - The working program and commit history will be presented to the **TA/Tutor** in the lab session.
-- Ensure that all required functionalities are implemented and tested.
 
 ## License
 This project is for educational purposes in **Bilkent University** and follows the guidelines set by the course instructors.
